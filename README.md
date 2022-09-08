@@ -19,9 +19,9 @@ The output from the last layer of each encoder is used to initialize the decoder
   <img src="/metrla_coverage_gmap.png" width="48%" /> 
 </p>
 
-Montreal Street-level Traffic Dataset covering certain strategic road segments of Montreal.
+(left) Montreal Street-level Traffic Dataset covering certain strategic road segments of Montreal.
 
-METR-LA dataset sensor distribution.
+(right) METR-LA dataset sensor distribution.
 
 ### Reference
 
