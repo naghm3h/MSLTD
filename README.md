@@ -14,7 +14,13 @@ The output from the last layer of each encoder is used to initialize the decoder
 
 ### Dataset Coverage
 
-![alt-text-1](https://github.com/naghm3h/MSLTD/blob/main/dataset_coverage.png?raw=true "MSLTD") ![alt-text-2](https://github.com/naghm3h/MSLTD/blob/main/metrla_coverage_gmap.png?raw=true "METR-LA")
+![alt-text-1](https://github.com/naghm3h/MSLTD/blob/main/dataset_coverage.png?raw=true "MSLTD") 
+![alt-text-2](https://github.com/naghm3h/MSLTD/blob/main/metrla_coverage_gmap.png?raw=true "METR-LA")
+
+<p align="middle">
+  <img src="/dataset_coverage.png" width="48%%" />
+  <img src="/metrla_coverage_gmap.png" width="48%" /> 
+</p>
 
 Montreal Street-level Traffic Dataset covering certain strategic road segments of Montreal.
 
