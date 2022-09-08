@@ -8,5 +8,5 @@ The adjacency matrix corresponding to the road network is calculated based on th
 
 ## Multilevel Sequence-to-Sequence (MLS2S) Architecture for a 2-level encoder
 
-![alt text](https://github.com/naghm3h/MSLTD/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/naghm3h/MSLTD/blob/main/mls2s.png?raw=true)
 
