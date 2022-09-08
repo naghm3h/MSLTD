@@ -6,12 +6,6 @@ We present the Montreal street-level traffic dataset (MSLTD), which provides  tr
 
 The adjacency matrix corresponding to the road network is calculated based on the road segment information. The variable features are mapped to the nodes, and the static states are considered as the edges to have a fixed graph structure. Each road segment is represented as a node and contains information including its origin and destination detector IDs. If two roads share the same start or end points, then a connection is formed in the graph.
 
-### Multilevel Sequence-to-Sequence (MLS2S) Architecture for a 2-level encoder
-
-![alt text](https://github.com/naghm3h/MSLTD/blob/main/mls2s.png?raw=true)
-
-The output from the last layer of each encoder is used to initialize the decoder. The number of encoder levels equals number of decoder layers.
-
 ### Dataset Coverage
 
 <p align="middle">
@@ -22,6 +16,12 @@ The output from the last layer of each encoder is used to initialize the decoder
 (left) Montreal Street-level Traffic Dataset covering certain strategic road segments of Montreal.
 
 (right) METR-LA dataset sensor distribution.
+
+### Multilevel Sequence-to-Sequence (MLS2S) Architecture for a 2-level encoder
+
+![alt text](https://github.com/naghm3h/MSLTD/blob/main/mls2s.png?raw=true)
+
+The output from the last layer of each encoder is used to initialize the decoder. The number of encoder levels equals number of decoder layers.
 
 ### Reference
 
