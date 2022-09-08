@@ -15,7 +15,7 @@ The output from the last layer of each encoder is used to initialize the decoder
 ### Dataset Coverage
 
 <p align="middle">
-  <img src="/dataset_coverage.png" width="45%" />
+  <img src="/dataset_coverage.png" width="45.5%" />
   <img src="/metrla_coverage_gmap.png" width="48%" /> 
 </p>
 
